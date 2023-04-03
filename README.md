@@ -30,9 +30,12 @@ If you press on another operand, the program understands that you need to do ano
 
  **All Configurations are available for change in /Application/application.h**
 
-4x4 Keypad connected to port D.
+- 4x4 Keypad connected to port D.
 
-LCD is connected to port C and working in 4-bit mode..
+- LCD is connected to port C and working in 4-bit mode..
+
+**Peripherals used:**
+- DIO
 
 ## Files
 
