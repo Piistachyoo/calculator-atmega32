@@ -2,6 +2,8 @@
 ## Project Description
 The project consisted of a microcontroller (AVR Atmega32) connected to an LCD screen to display i/o, and a keypad to enter numbers and choose operations.
 
+[Simple Calculator (ATMEGA32) - YouTube](https://www.youtube.com/watch?v=PN-9COofpJ8&list=PLC3Wwc_IeCN8d-kV1xPaiXWGpabYQGxY_&index=4)
+
 ## Project Design
 The program starts with initializing the LCD and keypad and initializing the calculator to start accepting inputs for the first operand.
 
